@@ -1,0 +1,44 @@
+#l1 
+{
+position:absolute;
+left:450px;
+top:25px;
+font-size:40px;
+Font-family:segoe ui light;
+}
+#d1
+{
+position:absolute;
+left:35px;
+Font-size:38px;
+Font-family:modern;
+}
+#d2 
+{
+background-color:#F1F1F1;
+position:absolute;
+left:800px;
+top:115px;
+height:80%;
+}
+#b 
+{
+	position:absolute;
+	top:490px; 
+	left:275px;
+	background-color:blue;
+	color:white;
+	border:blue;
+	width:70px;
+	height:30px;
+	text-size:15px;
+}
+::-webkit-input-placeholder { 
+  padding:5px;
+}
+#email 
+{
+	background-color:white;
+	height:25px;
+	
+}

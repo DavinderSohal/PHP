@@ -1,0 +1,25 @@
+[26-Apr-2018 11:55:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 11:55:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 11:57:02 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 11:57:02 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 11:58:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 11:58:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 11:59:08 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 11:59:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 11:59:17 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 11:59:17 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 11:59:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 11:59:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/gallery.php on line 118
+[26-Apr-2018 11:59:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/gallery.php on line 119
+[26-Apr-2018 11:59:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 11:59:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 11:59:33 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (2) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 11:59:33 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (2) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 11:59:56 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 11:59:56 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 12:00:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 12:00:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 12:00:32 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (2) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 12:00:32 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (2) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 12:03:17 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (2) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7
+[26-Apr-2018 12:03:17 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (2) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/include/config.php on line 7

@@ -1,0 +1,31 @@
+body,html{
+	margin:0px;
+	padding:0px;
+}
+a{
+	font-size:17px;
+	color:black;
+}
+button{
+	width:200px;
+	background-color:#bdc3c7;
+	padding:5px;
+	font-size:17px;
+}
+.back{
+	height:100%;
+	background-color:#ECEFF1;
+}
+.all{width:500px;
+    margin:auto;
+	padding-bottom:40px;
+	background:#78909C;
+    border-radius:20px;	
+}
+.post{
+    font-size:40px;
+	color:#283593;
+	padding:20px;
+	padding-top:80px;
+	padding-bottom:20px;
+}

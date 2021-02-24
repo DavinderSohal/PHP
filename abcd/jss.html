@@ -1,0 +1,23 @@
+<script src="jquery.js"></script>
+<style>
+#long{
+	width:50px;
+	height:50px;
+	background:red;
+}
+</style>
+<div id="long">
+</div>
+<input type="text" id="height">
+<input type="text" id="width">
+<button id="c">change</button>
+<script>
+$("#c").click(function()
+{
+var a=$("#height").val();
+var b=$("#width").val();
+$('#long').height(a);
+$('#long').width(b);
+}
+);
+</script>

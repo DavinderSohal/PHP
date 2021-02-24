@@ -1,0 +1,23 @@
+<?php
+include'db.php';
+$title=$_POST['title'];
+$detail=$_POST['detail'];
+$iname=$_FILES["image"]["name"];
+$itmp=$_FILES["image"]["tmp_name"];
+$path='upload/'.$iname;
+if($iname){
+	move_uploaded_file($itmp,$path);
+}
+$x=mysqli_query("insert into `booking` 
+(title,detail,image)values
+('$title','$detail','$iname')"
+);
+if($x)
+{
+	header("location:admin.php");
+}
+else
+{
+	echo"error";
+}
+?>

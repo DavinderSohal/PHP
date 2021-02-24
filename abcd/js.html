@@ -1,0 +1,38 @@
+<script src="jquery.js"></script>
+<style>
+#long{
+	width:50px;
+	height:50px;
+	background:red;
+}
+</style>
+<div id="long">
+</div>
+<button id="b"> Show</button>
+<button id="c"> Hide</button>
+<button id="d">show/hide</button>
+<input type="text" id="e">
+<button id="f">get</button>
+<script>
+$("#c").click(function()
+{
+$("#long").fadeOut(5000);
+}
+);
+$("#b").click(function()
+{
+$("#long").fadeIn(3000);
+}
+);
+$("#d").click(function()
+{
+$("#long").fadeToggle("fast");
+}
+);
+$("#f").click(function()
+{
+var a=$("#e").val();
+alert(a);
+}
+);
+</script>

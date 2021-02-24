@@ -1,0 +1,25 @@
+<?php
+include'db.php';
+$title=$_POST['title'];
+$category=$_POST['category'];
+$detail=$_POST['detail'];
+$date=date("Y-m-d");
+$iname=$_FILES["image"]["name"];
+$itmp=$_FILES["image"]["tmp_name"];
+$path='upload/'.$iname;
+if($iname){
+	move_uploaded_file($itmp,$path);
+}
+$x=mysql_query("insert into `newssite` 
+(title,category,detail,image,date)values
+('$title','$category','$detail','$iname','$date')"
+);
+if($x)
+{
+	header("location:admin.php");
+}
+else
+{
+	echo"error";
+}
+?>

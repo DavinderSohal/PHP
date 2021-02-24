@@ -1,0 +1,22 @@
+<?php 
+include("common/connect.php");
+$fname=$_POST['first'];
+$lname=$_POST['last'];
+$mail=$_POST['email'];
+$pass=$_POST['password1'];
+$day=$_POST['dob'];
+$gender=$_POST['gender'];
+$phone=$_POST['phone']; 
+$location=$_POST['location'];
+$insert="insert into users set
+fname='$fname',
+lname='$lname',
+email='$mail',
+password='$pass',
+dob='$day',
+gender='$gender',
+phone='$phone',
+location='$location'";
+mysqli_query($con,$insert);
+header("Location:view.php");
+?>

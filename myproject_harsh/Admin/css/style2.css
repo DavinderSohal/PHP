@@ -1,0 +1,319 @@
+        
+        
+          
+	/*  Define the background color for all the ODD background rows  */
+       .TFtable tr:nth-child(odd){ 
+		background: #b8d1f3;
+               
+	}
+       
+	/*  Define the background color for all the EVEN background rows  */
+         .TFtable tr:nth-child(even){
+		background: #dae5f4;
+	}
+          .TFtable tr:hover {
+                 background-color:SlateGray;
+             }          
+
+#b 
+{
+	position:absolute;
+	top:490px; 
+	left:275px;
+	background-color:blue;
+	color:white;
+	border:blue;
+	width:70px;
+	height:30px;
+	text-size:15px;
+}
+.footer3
+{
+margin-top:1px;
+border:0px solid black;
+height:80px;
+width:100%;
+float:left;
+text-align:center;
+background-color:MediumPurple;
+}
+.about-heading1
+{
+margin-left:11px;
+}
+.box-3
+{
+margin-top:-503px;
+margin-left:810px;
+border:4px dotted black;
+float:left;
+height:494px;
+width:32%;
+}
+.box-1
+{
+border:4px dotted black;
+float:left;
+height:494px;
+width:32%;
+}
+.box-2
+{
+margin-top:-1px;
+margin-left:13px;
+border:4px dotted black;
+float:left;
+height:494px;
+width:32%;
+}
+div a{
+color:black;
+}
+div a:hover{color:MediumPurple;}	
+.footer2
+{
+margin-top:-1px;
+margin-left:-1px;
+border:0px solid black;
+height:80px;
+width:100%;
+float:left;
+text-align:center;
+background-color:MediumPurple;
+}
+.unit-6
+{
+margin-top:-42px;
+margin-left:720px;
+float:left;
+height:38px;
+width:9%;
+}
+.unit-5
+{
+margin-top:-42px;
+margin-left:500px;
+float:left;
+height:38px;
+width:13%;
+}
+.unit-4
+{
+margin-top:-42px;
+margin-left:310px;
+float:left;
+height:38px;
+width:10%;
+}
+.unit-3
+{
+margin-left:70px;
+margin-top:-42px;
+float:left;
+height:38px;
+width:14%;
+}
+.unit-2
+{
+margin-left:50px;
+margin-top:-42px;
+float:left;	
+height:55px;
+width:11%;
+}
+.unit-1
+{
+margin-left:58px;
+margin-top:-42px;
+float:left;
+height:55px;
+width:7%;
+}
+.footer1
+{
+margin-top:-10px;
+margin-left:67px;
+border:0px solid black;
+height:100px;
+width:90%;
+float:left;
+text-align:center;
+background-color:MediumPurple;
+}
+.Action-Window1
+{
+border:0px solid black;
+height:500px;
+width:100%;
+float:left;
+background-color:LightPink;
+}
+body{
+font-size:14px;
+font-family:verdana;
+}
+li{
+font-size:14px;
+list-style:none;
+height:70px;
+border:4px solid purple; 
+}
+li a{
+font-size:26px;
+
+}
+.header
+{
+border:0px solid green;
+height:103.5px;
+width:100%;
+border-right:1px solid green;
+border-left:1px solid green;
+border-top:1px solid green;
+}
+
+.Action-Window
+{
+border:0px solid black;
+height:500px;
+width:100%;
+float:left;
+background-color:LightPink;
+}
+.footer
+{
+border:0px solid black;
+height:100px;
+width:100%;
+float:left;
+text-align:center;
+background-color:Green;
+}
+.main-box
+{
+border:0px solid black;
+height:601px;
+width:90%;
+margin:0px auto;	
+}
+.logo
+{
+width:33%;
+height:70px;
+border:0px solid black;
+float:left;
+font-size:40px;
+color:green;
+font-weight:bold;
+text-align:left;
+padding-top:7px;
+}
+.welcome
+{
+margin-left:6px;
+width:33%;
+height:70px;
+border:0px solid black;
+float:left;
+color:blue;
+font-size:24px;
+font-weight:bold;
+text-align:center;
+padding-top:21px;
+}
+.logout
+{
+width:33.5%;
+height:70px;
+border:0px solid black;
+float:right;
+padding-top:21px;
+text-align:right;
+}
+#cat-button1
+{         
+	position:absolute;
+	top:460px; 
+	left:1055px;
+	background-color:saddlebrown;
+	color:white;
+	border:saddlebrown;
+	width:70px;
+	height:30px;
+	text-size:15px;
+}
+#cat-button2
+{         
+	position:absolute;
+	top:460px; 
+	left:1135px;
+	background-color:saddlebrown;
+	color:white;
+	border:saddlebrown;
+	width:70px;
+	height:30px;
+	text-size:15px;
+}
+#sub_cat-button1
+{         
+	position:absolute;
+	top:460px; 
+	left:1064px;
+	background-color:saddlebrown;
+	color:white;
+	border:saddlebrown;
+	width:70px;
+	height:30px;
+	text-size:15px;
+}
+#sub_cat-button2
+{         
+	position:absolute;
+	top:460px; 
+	left:1150px;
+	background-color:saddlebrown;
+	color:white;
+	border:saddlebrown;
+	width:70px;
+	height:30px;
+	text-size:15px;
+}
+#settings-button1
+{         
+	position:absolute;
+	top:460px; 
+	left:1055px;
+	background-color:saddlebrown;
+	color:white;
+	border:saddlebrown;
+	width:70px;
+	height:30px;
+	text-size:15px;
+}
+#settings-button2
+{         
+	position:absolute;
+	top:460px; 
+	left:1135px;
+	background-color:saddlebrown;
+	color:white;
+	border:saddlebrown;
+	width:70px;
+	height:30px;
+	text-size:15px;
+}
+label{
+color:white;
+}
+a{
+text-decoration:none;
+color:white;
+}
+.cat-box
+{
+border:4px dotted black;
+background-color:#b8d1f3;
+margin:0px auto;
+height:350px;
+width:90%;
+}

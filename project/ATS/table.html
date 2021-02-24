@@ -1,0 +1,165 @@
+<div class="container">
+<table class="table table-striped table-hover ">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Roll No.</th>
+      <th>Class</th>
+      <th>Marks(In %)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1001</td>
+      <td>MCA</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>1002</td>
+      <td>MCA</td>
+      <td>67</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>1003</td>
+      <td>MCA</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>1004</td>
+      <td>MCA</td>
+      <td>84</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>1005</td>
+      <td>MCA</td>
+      <td>47</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>1006</td>
+      <td>MCA</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>1007</td>
+      <td>MCA</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1001</td>
+      <td>MCA</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>1002</td>
+      <td>MCA</td>
+      <td>67</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>1003</td>
+      <td>MCA</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>1004</td>
+      <td>MCA</td>
+      <td>84</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>1005</td>
+      <td>MCA</td>
+      <td>47</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>1006</td>
+      <td>MCA</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>1007</td>
+      <td>MCA</td>
+      <td>90</td>
+    </tr>
+  </tbody>
+</table> 
+</div>
+<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script>
+$(document).ready(function(e) {
+    $("#btn1").click(function(){
+		$("#navbar").removeClass("navbar-inverse").addClass("navbar-default");
+		});
+	$("#btn2").click(function(){
+		$("#navbar").removeClass("navbar-default").addClass("navbar-inverse");
+		});
+	//For the rows which contains marks less then 75%
+	$("tr td:nth-child(4)").each(function(index, element) {
+        var marks=$(this).text()*1;
+		if(marks <75)
+		{
+			$(this).parent("tr").addClass("danger");
+		}
+    });
+	$("#btn-al").click(function(){
+			$("#sl").hide();
+			$("#tl").hide();
+			$("#al").hide().show(300);
+		});
+	$("#btn-sl").click(function(){
+			$("#al").hide();
+			$("#tl").hide();
+			$("#sl").hide().show(300);		
+		});
+	$("#btn-tl").click(function(){
+			$("#al").hide();					
+			$("#sl").hide();
+			$("#tl").hide().show(300);
+		});
+
+		
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<button type="button" id="btn1" class="btn btn-primary">Default Navbar</button>
+<button type="button" id="btn2" class="btn btn-success">Inverse Navbar</button>
+<ul class="nav nav-pills">
+  <li><a href="#">Home</a></li>
+  <li class="active"><a href="#">Profile</a></li>
+  <li class="disabled"><a href="#">Disabled</a></li>
+  <li class="dropdown">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+      Dropdown <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li><a href="#">Action</a></li>
+      <li><a href="#">Another action</a></li>
+      <li><a href="#">Something else here</a></li>
+      <li class="divider"></li>
+      <li><a href="#">Separated link</a></li>
+    </ul>
+  </li>
+</ul>

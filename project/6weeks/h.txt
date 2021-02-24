@@ -1,0 +1,104 @@
+Exception handling
+IO
+INNERCLASSES
+STRING
+REGEXP
+SWINGS
+JDBC
+
+
+
+
+MULTITHREDAING
+COLLECTION
+RMI
+NETWORKING
+
+
+EXCEPTION HANDLING
+
+
+    What is the difference between checked and unchecked exceptions ?
+    What happens behind the code int data=50/0; ?
+    Why use multiple catch block ?
+    Is there any possibility when finally block is not executed ?
+    What is exception propagation ?
+    What is the difference between throw and throws keyword ?
+    What are the 4 rules for using exception handling with method overriding ?
+
+Trhrowable
+
+Exception
+IO 
+SQL
+classNOTFOUND
+		Run Time EXCEPTION
+			Arithmetic Exception
+			Null Pointer EXCEPTION
+
+ERROR
+
+STACK OVERFLOW
+VIRTUAL MACHINE ERROR
+outOfMemoryError:
+
+
+Types of Exception
+
+There are mainly two types of exceptions: checked and unchecked where error 
+is considered as unchecked exception. The sun microsystem says there are three types of exceptions:
+
+    Checked Exception
+    Unchecked Exception
+    Error
+	
+
+checked: extend throwable class and error these are checked at complie time
+
+unchecked: extend run time exception These are checked at run time
+
+error: Irecoverable
+
+
+Scenario
+a=50/0 arithmetic excelption
+
+String s=null; //null pointer exception`
+
+String s="abc";
+int i=Integer.parseInt(s); //number format exceptiom
+
+array:
+int a[]=new int[5];
+a[10]=50; //array index out of bound
+
+
+Exception Handling Keywords:
+
+Try 
+Catch
+finally
+throw
+throws
+
+
+Try block
+catch block
+multiple catch block
+nested try block
+finlly block
+Throw
+Throws
+
+
+example:
+throw new IOException("device error");
+
+Java Exception Propagation
+
+
+Final, finally, finalize;
+
+
+
+

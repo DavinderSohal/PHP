@@ -1,0 +1,50 @@
+[26-Apr-2018 11:57:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (2) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 11:57:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 11:57:18 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 11:57:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 124
+[26-Apr-2018 11:57:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 125
+[26-Apr-2018 11:57:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 11:57:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 124
+[26-Apr-2018 11:57:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 125
+[26-Apr-2018 11:57:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 11:57:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 124
+[26-Apr-2018 11:57:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 125
+[26-Apr-2018 11:57:47 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 11:57:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 124
+[26-Apr-2018 11:57:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 125
+[26-Apr-2018 11:58:01 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 11:58:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 124
+[26-Apr-2018 11:58:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 125
+[26-Apr-2018 11:58:38 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 11:58:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 124
+[26-Apr-2018 11:58:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 125
+[26-Apr-2018 11:58:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 11:58:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 124
+[26-Apr-2018 11:58:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 125
+[26-Apr-2018 12:00:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (2) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 12:00:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 12:00:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 12:00:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 124
+[26-Apr-2018 12:00:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 125
+[26-Apr-2018 12:02:46 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (2) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 12:02:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 124
+[26-Apr-2018 12:02:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 125
+[26-Apr-2018 12:03:02 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 12:03:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 124
+[26-Apr-2018 12:03:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 125
+[26-Apr-2018 12:03:22 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 12:03:22 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 12:03:30 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 12:03:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 124
+[26-Apr-2018 12:03:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 125
+[26-Apr-2018 12:06:44 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (2) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 12:06:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 12:06:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 124
+[26-Apr-2018 12:06:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 125
+[26-Apr-2018 12:07:02 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 12:07:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 124
+[26-Apr-2018 12:07:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 125
+[26-Apr-2018 12:07:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 12:07:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'hopengo' (0) in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/include/config.php on line 7
+[26-Apr-2018 12:07:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 124
+[26-Apr-2018 12:07:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jaswanttaur/public_html/pixeldropinc.com/hopengo/admin/adminlogin.php on line 125

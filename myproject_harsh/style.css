@@ -1,0 +1,21 @@
+@charset "utf-8";
+a,a:hover
+{
+	text-decoration:none;
+	color:#000;
+}
+#content{width:1011px;height:auto;float:left;}
+
+.inner-part{width:1011px;height:auto;float:left;background: url(../images/round-top.png) #FFF no-repeat top;padding-bottom:60px;}
+.inner-left{ width:664px; height:auto; float:left; padding-left:25px;}
+
+.academic-part{ width:630px; float:left; margin-left:7px; margin-top:-157px;}
+
+.acc-trigger {border: 1px solid #dedede;cursor: pointer;display: block;margin-bottom:7px;background: #f9f9f9;padding-left:15px;}
+.acc-trigger a {background:url(images/plus.png) #f9f9f9 left 10px no-repeat;display: block;outline:none;text-decoration: none;font:Normal 16px Arial, Helvetica, sans-serif;color:#1e0b07;padding-left:35px;
+padding-top:10px;padding-bottom:10px;}
+.acc-trigger.active a {cursor: default; background: url(images/minase.png) #f9f9f9 left no-repeat; }
+.acc-trigger a:hover, .acc-trigger.active a{color: #000;}
+.acc-trigger a h3 {font-weight: bold; font-size: 14px; letter-spacing: -0.5px; line-height: 28px; color: #777;}
+.acc-container .content{ padding: 2px 15px 5px 15px;  font:Normal 12px Arial, Helvetica, sans-serif; color:#442720; line-height:18px;}
+.content p { margin-bottom: 10px; }

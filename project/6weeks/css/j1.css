@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+	p{
+			 color:white;
+			 text-align:center;
+			 font-size:23px;
+			 background-color:green;
+			
+			text-decoration:none;
+			font-weight:900;
+			width:300px;
+			text-transform:lowercase;
+			
+			
+			font-family:Verdana, Geneva, sans-serif;
+			border:2px solid #F00;
+			position:absolute;
+			left:500px;
+			top:400px;
+			
+			}
+		img{
+			
+			border-radius:300px;
+		    			
+		 }
